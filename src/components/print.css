@@ -1,0 +1,11 @@
+.list{
+  border: 1.5px solid black;
+  width: 18.%;
+ 
+
+}
+
+.td{
+  margin-top:1%;
+  display: inline-block;
+}
